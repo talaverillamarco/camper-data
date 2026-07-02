@@ -1,0 +1,24 @@
+{
+  "region": "madrid",
+  "version": 1,
+  "pois": [
+    {
+      "id": "poi_001",
+      "name": "Área Camper Talavera",
+      "lat": 39.9603,
+      "lng": -4.8306,
+      "type": "public",
+      "payment": false,
+      "services": ["agua", "parking"]
+    },
+    {
+      "id": "poi_002",
+      "name": "Parking Privado A5",
+      "lat": 40.0,
+      "lng": -4.9,
+      "type": "paid",
+      "payment": true,
+      "services": ["seguridad"]
+    }
+  ]
+}
