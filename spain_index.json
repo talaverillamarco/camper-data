@@ -1,3 +1,17 @@
 {
-  "test": true
+  "version": 1,
+  "regions": [
+    {
+      "id": "madrid",
+      "name": "Madrid",
+      "version": 1,
+      "url": "https://talaverillamarco.github.io/camper-data/madrid.json"
+    },
+    {
+      "id": "valencia",
+      "name": "Valencia",
+      "version": 1,
+      "url": "https://talaverillamarco.github.io/camper-data/valencia.json"
+    }
+  ]
 }
