@@ -1,113 +1,13 @@
 {
-  "version": 1,
+  "updatedAt": "2026-07-03T16:31:38.102Z",
+  "regionCount": 1,
   "regions": [
-    {
-      "id": "andalucia",
-      "name": "Andalucía",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/andalucia.json"
-    },
-    {
-      "id": "aragon",
-      "name": "Aragón",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/aragon.json"
-    },
-    {
-      "id": "asturias",
-      "name": "Asturias",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/asturias.json"
-    },
-    {
-      "id": "baleares",
-      "name": "Islas Baleares",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/baleares.json"
-    },
-    {
-      "id": "canarias",
-      "name": "Islas Canarias",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/canarias.json"
-    },
-    {
-      "id": "cantabria",
-      "name": "Cantabria",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/cantabria.json"
-    },
-    {
-      "id": "castilla_la_mancha",
-      "name": "Castilla-La Mancha",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/castilla_la_mancha.json"
-    },
-    {
-      "id": "castilla_leon",
-      "name": "Castilla y León",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/castilla_leon.json"
-    },
-    {
-      "id": "catalunya",
-      "name": "Cataluña",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/catalunya.json"
-    },
-    {
-      "id": "ceuta_melilla",
-      "name": "Ceuta y Melilla",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/ceuta_melilla.json"
-    },
-    {
-      "id": "comunidad_valenciana",
-      "name": "Comunidad Valenciana",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/comunidad_valenciana.json"
-    },
-    {
-      "id": "extremadura",
-      "name": "Extremadura",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/extremadura.json"
-    },
-    {
-      "id": "galicia",
-      "name": "Galicia",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/galicia.json"
-    },
     {
       "id": "madrid",
       "name": "Comunidad de Madrid",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/madrid.json"
-    },
-    {
-      "id": "murcia",
-      "name": "Región de Murcia",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/murcia.json"
-    },
-    {
-      "id": "navarra",
-      "name": "Navarra",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/navarra.json"
-    },
-    {
-      "id": "pais_vasco",
-      "name": "País Vasco",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/pais_vasco.json"
-    },
-    {
-      "id": "rioja",
-      "name": "La Rioja",
-      "version": 1,
-      "url": "https://talaverillamarco.github.io/camper-data/rioja.json"
+      "file": "madrid.json",
+      "poiCount": 48,
+      "updatedAt": "2026-07-03T16:31:20.018Z"
     }
   ]
 }
