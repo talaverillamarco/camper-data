@@ -1,13 +1,16 @@
 {
-  "updatedAt": "2026-07-03T16:31:38.102Z",
+  "schemaVersion": 1,
+  "updatedAt": "2026-07-04T08:18:00.814Z",
   "regionCount": 1,
   "regions": [
     {
       "id": "madrid",
       "name": "Comunidad de Madrid",
-      "file": "madrid.json",
+      "url": "madrid.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.04",
       "poiCount": 48,
-      "updatedAt": "2026-07-03T16:31:20.018Z"
+      "updatedAt": "2026-07-04T08:17:49.557Z"
     }
   ]
 }

@@ -1,7 +1,10 @@
 {
   "region": "madrid",
   "name": "Comunidad de Madrid",
-  "updatedAt": "2026-07-03T16:31:20.018Z",
+  "schemaVersion": 1,
+  "dataVersion": "2026.07.04",
+  "updatedAt": "2026-07-04T08:17:49.557Z",
+  "poiCount": 48,
   "pois": [
     {
       "id": "madrid-002",
