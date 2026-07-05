@@ -1,16 +1,151 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-07-04T08:18:00.814Z",
-  "regionCount": 1,
+  "updatedAt": "2026-07-05T17:09:46.265Z",
+  "regionCount": 16,
   "regions": [
+    {
+      "id": "andalucia",
+      "name": "Andalucía",
+      "url": "andalucia.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 594,
+      "updatedAt": "2026-07-05T17:09:46.054Z"
+    },
+    {
+      "id": "aragon",
+      "name": "Aragón",
+      "url": "aragon.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 279,
+      "updatedAt": "2026-07-05T17:09:46.076Z"
+    },
+    {
+      "id": "asturias",
+      "name": "Asturias",
+      "url": "asturias.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 177,
+      "updatedAt": "2026-07-05T17:09:46.085Z"
+    },
+    {
+      "id": "baleares",
+      "name": "Baleares",
+      "url": "baleares.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 25,
+      "updatedAt": "2026-07-05T17:09:46.092Z"
+    },
+    {
+      "id": "cantabria",
+      "name": "Cantabria",
+      "url": "cantabria.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 117,
+      "updatedAt": "2026-07-05T17:09:46.098Z"
+    },
+    {
+      "id": "castilla_leon",
+      "name": "Castilla y León",
+      "url": "castilla_leon.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 483,
+      "updatedAt": "2026-07-05T17:09:46.115Z"
+    },
+    {
+      "id": "castilla_mancha",
+      "name": "Castilla-La Mancha",
+      "url": "castilla_mancha.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 164,
+      "updatedAt": "2026-07-05T17:09:46.129Z"
+    },
+    {
+      "id": "cataluna",
+      "name": "Cataluña",
+      "url": "cataluna.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 566,
+      "updatedAt": "2026-07-05T17:09:46.148Z"
+    },
+    {
+      "id": "ceuta",
+      "name": "Ceuta",
+      "url": "ceuta.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 1,
+      "updatedAt": "2026-07-05T17:09:46.157Z"
+    },
     {
       "id": "madrid",
       "name": "Comunidad de Madrid",
       "url": "madrid.json",
       "schemaVersion": 1,
-      "dataVersion": "2026.07.04",
+      "dataVersion": "2026.07.05",
       "poiCount": 48,
-      "updatedAt": "2026-07-04T08:17:49.557Z"
+      "updatedAt": "2026-07-05T17:09:46.181Z"
+    },
+    {
+      "id": "valencia",
+      "name": "Comunidad Valenciana",
+      "url": "valencia.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 312,
+      "updatedAt": "2026-07-05T17:09:46.210Z"
+    },
+    {
+      "id": "extremadura",
+      "name": "Extremadura",
+      "url": "extremadura.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 114,
+      "updatedAt": "2026-07-05T17:09:46.162Z"
+    },
+    {
+      "id": "galicia",
+      "name": "Galicia",
+      "url": "galicia.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 372,
+      "updatedAt": "2026-07-05T17:09:46.174Z"
+    },
+    {
+      "id": "murcia",
+      "name": "Murcia",
+      "url": "murcia.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 77,
+      "updatedAt": "2026-07-05T17:09:46.185Z"
+    },
+    {
+      "id": "navarra",
+      "name": "Navarra",
+      "url": "navarra.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 110,
+      "updatedAt": "2026-07-05T17:09:46.190Z"
+    },
+    {
+      "id": "pais_vasco",
+      "name": "País Vasco",
+      "url": "pais_vasco.json",
+      "schemaVersion": 1,
+      "dataVersion": "2026.07.05",
+      "poiCount": 124,
+      "updatedAt": "2026-07-05T17:09:46.197Z"
     }
   ]
 }

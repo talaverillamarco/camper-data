@@ -1,0 +1,6921 @@
+{
+  "region": "pais_vasco",
+  "name": "País Vasco",
+  "schemaVersion": 1,
+  "dataVersion": "2026.07.05",
+  "updatedAt": "2026-07-05T17:09:46.197Z",
+  "poiCount": 124,
+  "pois": [
+    {
+      "id": "osm-way-410781360",
+      "name": "Aparcamiento de Caravanas de Barrika",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.407565780000006,
+      "lng": -2.96385292,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-4344530496",
+      "name": "Área de Agurain",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.8533746,
+      "lng": -2.3852192000000003,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1265197225",
+      "name": "Área de Amurrio",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.05511454,
+      "lng": -2.9981530400000005,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 1,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-917128317",
+      "name": "Area de Autocaravanas Azpeitia",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.1722033888889,
+      "lng": -2.261845666666667,
+      "payment": false,
+      "description": "Operador: ciudad de Azpeitia. Capacidad: 4. Estancia máx.: 3 nights",
+      "services": [
+        "black_water",
+        "disabled_access",
+        "dump_station",
+        "grey_water",
+        "water",
+        "wc"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "no",
+        "toilets": "yes",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "ciudad de Azpeitia",
+        "fee": false,
+        "capacity": "4",
+        "max_stay": "3 nights"
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 2,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "yes",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-node-11463374573",
+      "name": "Area de autocaravanas de Amurrio",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.0429983,
+      "lng": -3.0003501000000004,
+      "payment": false,
+      "description": "Tiene punto de vaciado de aguas negras, recarga de agua potable y electricidad gratuitas",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "no",
+        "showers": "unknown",
+        "wifi": "no"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1467985786",
+      "name": "Área de autocaravanas de Larrabetzu",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.26510422500001,
+      "lng": -2.793296845833334,
+      "payment": false,
+      "description": "Este área dispone de vaciado de aguas negras y grises y también hay toma de agua potable. Contenedor de basuras a 200 mts. A 300 mts. está Larrabetzu. Carretera cercana que por la noche apenas tiene tráfico, por las mañanas temprano hay tráfico.. Capacidad: 5",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "no",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": "5",
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-11463374572",
+      "name": "Área de autocaravanas de Orduña",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.992971700000005,
+      "lng": -3.0126796000000002,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-399402407",
+      "name": "Área de autocaravanas de Zestoa",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.24146771666667,
+      "lng": -2.2607208,
+      "payment": false,
+      "description": "Operador: ciudad de Zestoa. Capacidad: 20. Estancia máx.: 72 hours",
+      "services": [
+        "black_water",
+        "disabled_access",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "no",
+        "toilets": "no",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "ciudad de Zestoa",
+        "fee": false,
+        "capacity": "20",
+        "max_stay": "72 hours"
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "no",
+        "caravans": "no",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 2,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-node-4224424198",
+      "name": "Area de autocaravanas Elciego",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.514810700000005,
+      "lng": -2.6155405000000003,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "no",
+        "showers": "no",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "no",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-423131977",
+      "name": "Área de autocaravanas en Bilbao Hostel",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.26210295555556,
+      "lng": -2.9606312,
+      "payment": true,
+      "description": "Operador: Bilbao Hostel. Capacidad: 8",
+      "services": [
+        "electricity",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://bilbaohostel.net/area-autocaravanas-bilbao/",
+        "email": null,
+        "opening_hours": null,
+        "operator": "Bilbao Hostel",
+        "fee": true,
+        "capacity": "8",
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-919842562",
+      "name": "Área de autocaravanas La Bárcena",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.118231314285715,
+      "lng": -3.130676385714286,
+      "payment": false,
+      "description": "Operador: ciudad de Artziniega. Área de autocaravanas mixtas con estacionamiento para autos. Capacidad: 10. Estancia máx.: 72 hours",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://artziniegakoudala.eus/es/parking-autocaravanas",
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": "ciudad de Artziniega",
+        "fee": false,
+        "capacity": "10",
+        "max_stay": "72 hours"
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "no",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 2,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "yes",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-1265206515",
+      "name": "Área de autocaravanas Zalla",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.20770026,
+      "lng": -3.1304881600000005,
+      "payment": false,
+      "description": "Operador: ciudad de Mimetiz. Capacidad: 4. Estancia máx.: 48 hours",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "no",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": "ciudad de Mimetiz",
+        "fee": false,
+        "capacity": "4",
+        "max_stay": "48 hours"
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 2,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-1265188120",
+      "name": "Área de autocaravanas Zeanuri",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.0996754,
+      "lng": -2.7506157142857144,
+      "payment": false,
+      "description": "Operador: ciudad de Plaza. Capacidad: 6. Estancia máx.: 72 hours",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": "ciudad de Plaza",
+        "fee": false,
+        "capacity": "6",
+        "max_stay": "72 hours"
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "no",
+        "caravans": "no",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1265178467",
+      "name": "Área de autocaravanas Zelaieta",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.345872711111106,
+      "lng": -2.654717766666667,
+      "payment": false,
+      "description": "Operador: ciudad de Zelaieta. Área de autocaravanas mixtas con estacionamiento para autos. Capacidad: 10",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "no",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": "ciudad de Zelaieta",
+        "fee": false,
+        "capacity": "10",
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 2,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-815313240",
+      "name": "Área de Lakua",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.86674308571429,
+      "lng": -2.6856252714285715,
+      "payment": false,
+      "description": "Operador: ciudad de Vitoria-Gasteiz. Capacidad: 48. Estancia máx.: 72 hours",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "no",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=en&uid=u_24e9bad9_159affddf2b__7efd",
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": "ciudad de Vitoria-Gasteiz",
+        "fee": false,
+        "capacity": "48",
+        "max_stay": "72 hours"
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "no",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 2,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-531746676",
+      "name": "Arketa kanping",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.39508625833334,
+      "lng": -2.678939752777778,
+      "payment": true,
+      "description": "",
+      "services": [
+        "electricity",
+        "playground",
+        "restaurant",
+        "showers",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 672 683 414",
+        "website": "http://www.laida.net",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "forbidden",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-764539639",
+      "name": "Asentzio",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.1243021,
+      "lng": -2.4827531,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1100889520",
+      "name": "Autocaravanas Balmaseda",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.197156993750006,
+      "lng": -3.2037253125000005,
+      "payment": true,
+      "description": "Capacidad: 14. Estancia máx.: 48 hours",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://balmaseando.eus/comienza-a-funcionar-el-area-de-autocaravanas/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": "14",
+        "max_stay": "48 hours"
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-674421142",
+      "name": "Bastidako autokarabana gunea",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.58720413333334,
+      "lng": -2.7943984111111115,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "no",
+        "toilets": "no",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 1,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-node-7786935271",
+      "name": "Beasain",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.046373200000005,
+      "lng": -2.2120535,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-591513411",
+      "name": "Bergara - Labegaraieta",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.104823200000006,
+      "lng": -2.42260642,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "no",
+        "toilets": "no",
+        "showers": "no",
+        "wifi": "no"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 2,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-node-13950381648",
+      "name": "Burumendi",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.311995,
+      "lng": -2.3823309000000004,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1097952634",
+      "name": "Camping Angosto",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.841999512499996,
+      "lng": -3.0681192999999998,
+      "payment": true,
+      "description": "",
+      "services": [
+        "electricity",
+        "restaurant",
+        "water",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "unknown",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34945353271",
+        "website": "https://www.camping-angosto.com/",
+        "email": "info@camping-angosto.com",
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "yes"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-425526858",
+      "name": "Camping Arrien",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.41850467200001,
+      "lng": -2.936560584,
+      "payment": true,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water",
+        "restaurant",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://www.campinggorliz.com/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "yes",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-296508336",
+      "name": "Camping Endai",
+      "type": "camping",
+      "access": "public",
+      "lat": 43.35439820400002,
+      "lng": -2.484975288,
+      "payment": false,
+      "description": "",
+      "services": [
+        "electricity",
+        "pets_allowed",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 946 84 24 69",
+        "website": "https://www.campingseuskadi.com/socio/endai",
+        "email": "campingendai@gmail.com",
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-71571646",
+      "name": "Camping Faro de Higuer",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.392241111111105,
+      "lng": -1.7943814888888892,
+      "payment": true,
+      "description": "",
+      "services": [
+        "pets_allowed",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 943 64 10 08",
+        "website": "https://www.campingfarodehiguer.es/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "yes",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-45314213",
+      "name": "Camping Ibaia",
+      "type": "camping",
+      "access": "public",
+      "lat": 42.83144685625001,
+      "lng": -2.722942475,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://www.campingibaia.com/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-679604131",
+      "name": "Camping Igara de San Sebastian",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.29740141111111,
+      "lng": -2.0381164166666665,
+      "payment": true,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water",
+        "restaurant",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 943 358 812",
+        "website": "https://campingigara.com/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "yes",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "yes"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-651276085",
+      "name": "Camping Itziar",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.28712,
+      "lng": -2.3384163,
+      "payment": true,
+      "description": "",
+      "services": [
+        "wc"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://www.campingitxaspe.com/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-45286855",
+      "name": "Camping Leagi",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.351807025000014,
+      "lng": -2.493924015625,
+      "payment": true,
+      "description": "",
+      "services": [
+        "electricity",
+        "playground",
+        "restaurant",
+        "showers",
+        "wc"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://www.campingleagi.com",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "yes",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-181521867",
+      "name": "Camping Monumento al Pastor",
+      "type": "camping",
+      "access": "public",
+      "lat": 42.66196734130435,
+      "lng": -3.071528147826088,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-260145635",
+      "name": "Camping Oliden",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.31494911538462,
+      "lng": -1.8735036230769233,
+      "payment": true,
+      "description": "",
+      "services": [
+        "electricity",
+        "pets_allowed",
+        "showers",
+        "water",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 943 49 07 28",
+        "website": "http://www.campingoliden.com/",
+        "email": "campingoliden@hotmail.com",
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "yes",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "yes"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "yes",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-531746674",
+      "name": "Camping San Zipriano",
+      "type": "camping",
+      "access": "public",
+      "lat": 43.22461608947369,
+      "lng": -3.3945612894736845,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-45285657",
+      "name": "Camping Sopelana",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.38944828965518,
+      "lng": -2.985918362068966,
+      "payment": true,
+      "description": "Telephone is hard to reach. 20 min by foot to Metro, 5 min to beach",
+      "services": [
+        "disabled_access",
+        "electricity",
+        "playground",
+        "restaurant",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34946761981",
+        "website": "https://www.campingsopelana.com/",
+        "email": "reception@campingsopelana.com",
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "yes",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-45290186",
+      "name": "Camping Talaimendi",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.28661575833334,
+      "lng": -2.154247280555556,
+      "payment": true,
+      "description": "",
+      "services": [
+        "disabled_access",
+        "electricity",
+        "pets_allowed",
+        "restaurant",
+        "water",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 943 83 00 42",
+        "website": "https://www.campingseuskadi.com/en/socio/talaimendi/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-274736364",
+      "name": "Camping Zumaia",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.28950960819673,
+      "lng": -2.248649822950819,
+      "payment": true,
+      "description": "",
+      "services": [
+        "electricity",
+        "pets_allowed",
+        "playground",
+        "restaurant",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 943 86 04 75",
+        "website": "https://www.campingzumaia.com",
+        "email": "info@campingzumaia.com",
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "yes",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "yes"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-112543712",
+      "name": "El Roble Verde",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.794824792592586,
+      "lng": -2.878750270370371,
+      "payment": true,
+      "description": "",
+      "services": [
+        "electricity",
+        "pets_allowed",
+        "playground",
+        "restaurant",
+        "showers",
+        "water",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 945 06 33 50",
+        "website": "https://campingelrobleverde.com/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "yes",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "yes"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1501145761",
+      "name": "Elorrioko autokarabana gunea",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.128492325,
+      "lng": -2.54620075,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "no",
+        "showers": "no",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "no",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 1,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "yes",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-37919849",
+      "name": "Galdona",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.3173450814815,
+      "lng": -2.4024215333333334,
+      "payment": true,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water",
+        "restaurant",
+        "water",
+        "wc"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": "+34 943 60 35 09",
+        "website": "https://www.campinggaldona.com/sobre-nosotros",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "leashed",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-775769071",
+      "name": "Galdona",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.31749435555556,
+      "lng": -2.4004283333333336,
+      "payment": true,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8865900632",
+      "name": "Gran Camping Zarautz",
+      "type": "service_area",
+      "access": "private",
+      "lat": 43.29051990000001,
+      "lng": -2.1468191,
+      "payment": false,
+      "description": "Operador: Gran Camping Zarautz",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "Gran Camping Zarautz",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-45290184",
+      "name": "Gran Camping Zarautz",
+      "type": "camper_area",
+      "access": "private",
+      "lat": 43.28956382608695,
+      "lng": -2.1469863898550727,
+      "payment": true,
+      "description": "",
+      "services": [
+        "electricity",
+        "pets_allowed",
+        "playground",
+        "showers",
+        "water",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://www.grancampingzarautz.com/en/",
+        "email": null,
+        "opening_hours": "Jan-Dec",
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "yes",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 1,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "yes",
+          "showers": "yes",
+          "power_supply": "yes",
+          "internet_access": "yes",
+          "reception": "unknown",
+          "bbq": "yes",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-226421245",
+      "name": "Hernaniko autokarabana gunea",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.2696782882353,
+      "lng": -1.9626998529411765,
+      "payment": false,
+      "description": "Operador: ciudad de Hernani. Capacidad: 20",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "no",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://turismoa.hernani.eus/eu/autokarabanentzako-aparkalekua",
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": "ciudad de Hernani",
+        "fee": false,
+        "capacity": "20",
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1182182033",
+      "name": "Igeldo Camping",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.30407865000001,
+      "lng": -2.0466880900000004,
+      "payment": true,
+      "description": "Operador: We Camp",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "We Camp",
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-169279149",
+      "name": "Igeldo Camping",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.30414981111111,
+      "lng": -2.0457825740740745,
+      "payment": true,
+      "description": "",
+      "services": [
+        "pets_allowed",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://wecamp.net/en/locations/san-sebastian",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "unknown",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 1,
+        "features": {
+          "drinking_water": "unknown",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "yes",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-39520958",
+      "name": "Itxaspe",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.293492532,
+      "lng": -2.329203172,
+      "payment": true,
+      "description": "",
+      "services": [
+        "black_water",
+        "disabled_access",
+        "dump_station",
+        "electricity",
+        "grey_water",
+        "pets_allowed",
+        "playground",
+        "showers",
+        "water",
+        "wc"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": "+34 943 199 377",
+        "website": "https://www.campingitxaspe.com",
+        "email": "itxaspe@hotmail.es",
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "yes",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "yes"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-53187371",
+      "name": "Jaizkibel",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.36633344285715,
+      "lng": -1.8054506500000005,
+      "payment": false,
+      "description": "",
+      "services": [
+        "electricity",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 943 641 679",
+        "website": "https://www.campingjaizkibel.com/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "forbidden",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-372090970",
+      "name": "Kimu berri",
+      "type": "camping",
+      "access": "public",
+      "lat": 43.074670761111115,
+      "lng": -2.3537136888888894,
+      "payment": false,
+      "description": "Operador: Legazpiko Udala",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "Legazpiko Udala",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "yes",
+        "caravans": "no",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-297437907",
+      "name": "Kobeta autokarabanen parkea",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.260219150000005,
+      "lng": -2.9647760000000005,
+      "payment": true,
+      "description": "Operador: Bilbao Hostel. Capacidad: 80. Estancia máx.: 48 hours",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water",
+        "showers",
+        "water",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 94 4795760",
+        "website": "https://bilbaohostel.net/area-autocaravanas-bilbao/",
+        "email": null,
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "operator": "Bilbao Hostel",
+        "fee": true,
+        "capacity": "80",
+        "max_stay": "48 hours"
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "no",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1516441945",
+      "name": "Landako autokarabana gunea",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.95285640000001,
+      "lng": -2.5847578,
+      "payment": true,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "no",
+        "showers": "no",
+        "wifi": "no"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "no",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 1,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-node-12106737549",
+      "name": "Larraitzeko akanpada libreko eremua",
+      "type": "camping",
+      "access": "public",
+      "lat": 43.035240900000005,
+      "lng": -2.0964201,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "yes",
+        "caravans": "no",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-5585719021",
+      "name": "Lekeitio",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.35836750000001,
+      "lng": -2.5075471,
+      "payment": true,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-919663769",
+      "name": "Listorreta",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.268116600000006,
+      "lng": -1.9015796333333335,
+      "payment": false,
+      "description": "Operador: ciudad de Listorreta. Área de autocaravanas mixtas con estacionamiento para autos. Capacidad: 10",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water",
+        "wc"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "no",
+        "toilets": "yes",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "ciudad de Listorreta",
+        "fee": false,
+        "capacity": "10",
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 2,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "yes",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-node-305926973",
+      "name": "Mirandaola",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.0367837,
+      "lng": -2.3375191,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-314763080",
+      "name": "Ondarroa - Zaldupe",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.32019543333334,
+      "lng": -2.430228916666667,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-45290812",
+      "name": "Orio kanpina",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.28625629500001,
+      "lng": -2.124962385,
+      "payment": true,
+      "description": "",
+      "services": [
+        "black_water",
+        "disabled_access",
+        "dump_station",
+        "grey_water",
+        "restaurant",
+        "showers",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://oriokanpina.com",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "yes"
+      },
+      "rules": {
+        "pets": "forbidden",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1265170025",
+      "name": "Parking de la Pérgola Bermeo",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.423560528571436,
+      "lng": -2.7260272,
+      "payment": true,
+      "description": "Capacidad: 19. Estancia máx.: 72 hours",
+      "services": [
+        "electricity",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "no"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://autocarping.es/aparcamientos/bermeo/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": "19",
+        "max_stay": "72 hours"
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "no",
+        "caravans": "no",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1195131733",
+      "name": "Parking Jaizubia",
+      "type": "camper_area",
+      "access": "private",
+      "lat": 43.31892010625,
+      "lng": -1.8387137187500002,
+      "payment": true,
+      "description": "parking lot",
+      "services": [
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": "+34623020259",
+        "website": "https://www.parkingjaizubia.eus/",
+        "email": "info@parkingjaizubia.eus",
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-429913249",
+      "name": "Parque de Caravanas de Lanestosa",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.21743693333334,
+      "lng": -3.438975155555555,
+      "payment": false,
+      "description": "Operador: Ayuntamiento de Lanestosa. The stay is free, the amount (8 €/day) is for the automated services and it is done with a card that is acquired in any establishment of the town.",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "Ayuntamiento de Lanestosa",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "yes",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-426346476",
+      "name": "Parque de Garaio Parking",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.90096166399999,
+      "lng": -2.5353297800000005,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "no",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://ullibarri-gamboa.araba.eus/es/parque-provincial-de-garaio",
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-4361689090",
+      "name": "Portuko aparkalekua",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.285143500000004,
+      "lng": -2.13212,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-45289953",
+      "name": "Portuondo",
+      "type": "camping",
+      "access": "public",
+      "lat": 43.39837937647059,
+      "lng": -2.6963857235294117,
+      "payment": true,
+      "description": "",
+      "services": [
+        "electricity",
+        "pets_allowed",
+        "wc"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 94 687 77 01",
+        "website": "https://www.campingportuondo.com",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "yes"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "yes",
+        "caravans": "no",
+        "motorhome": "yes",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-502755468",
+      "name": "Salinas de Añana",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.803878737500014,
+      "lng": -2.98462418125,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-532052201",
+      "name": "San Martin autokarabana gunea",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.02750213333334,
+      "lng": -2.4051187833333336,
+      "payment": false,
+      "description": "Capacidad: 18. Estancia máx.: 72 hours",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": null,
+        "fee": false,
+        "capacity": "18",
+        "max_stay": "72 hours"
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 1,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-37853451",
+      "name": "Santa Elena",
+      "type": "camping",
+      "access": "public",
+      "lat": 43.31327636341465,
+      "lng": -2.3932583000000003,
+      "payment": true,
+      "description": "",
+      "services": [
+        "electricity",
+        "pets_allowed",
+        "playground",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 943603982",
+        "website": "https://www.camping-santaelena.com/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "yes",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "yes",
+        "caravans": "no",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-893594180",
+      "name": "Santikurutze Kanpezu",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.672309225,
+      "lng": -2.3440253625,
+      "payment": false,
+      "description": "Capacidad: 15",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": "15",
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 2,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "yes",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-28733404",
+      "name": "Saturraran",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.31686940952382,
+      "lng": -2.411665647619048,
+      "payment": true,
+      "description": "",
+      "services": [
+        "disabled_access",
+        "electricity",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 943 603847",
+        "website": "https://www.campingsaturraran.com/es",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "leashed",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1284676471",
+      "name": "Saturrarango autokarabana gunea",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.31874182,
+      "lng": -2.4121632200000005,
+      "payment": true,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-10297009482",
+      "name": "Sin nombre (OSM node/10297009482)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.104748300000004,
+      "lng": -2.4228414000000003,
+      "payment": false,
+      "description": "Operador: Bergarako Udala",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": "Bergarako Udala",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-10978339102",
+      "name": "Sin nombre (OSM node/10978339102)",
+      "type": "service_area",
+      "access": "private",
+      "lat": 43.303738700000004,
+      "lng": -2.0461325,
+      "payment": false,
+      "description": "Operador: We Camp",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": "We Camp",
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-11753160468",
+      "name": "Sin nombre (OSM node/11753160468)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.055115300000004,
+      "lng": -2.9981236000000004,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-12762143502",
+      "name": "Sin nombre (OSM node/12762143502)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.046391400000005,
+      "lng": -2.2120379000000003,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-12770000662",
+      "name": "Sin nombre (OSM node/12770000662)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.42349170000001,
+      "lng": -2.7251954,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-13107912074",
+      "name": "Sin nombre (OSM node/13107912074)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.64327900000001,
+      "lng": -2.7116265000000004,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-13121963202",
+      "name": "Sin nombre (OSM node/13121963202)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.3155094,
+      "lng": -3.0708764000000004,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-13121977252",
+      "name": "Sin nombre (OSM node/13121977252)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.3149109,
+      "lng": -3.0705101000000004,
+      "payment": false,
+      "description": "registration required with pverde app",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-13743213245",
+      "name": "Sin nombre (OSM node/13743213245)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.128490500000005,
+      "lng": -2.5466604000000004,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-13910767813",
+      "name": "Sin nombre (OSM node/13910767813)",
+      "type": "service_area",
+      "access": "private",
+      "lat": 42.952633000000006,
+      "lng": -2.5847927000000004,
+      "payment": true,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-13922197801",
+      "name": "Sin nombre (OSM node/13922197801)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 42.9861944,
+      "lng": -3.0115515000000004,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-3642029742",
+      "name": "Sin nombre (OSM node/3642029742)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.167747000000006,
+      "lng": -2.0653919000000003,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-3642029749",
+      "name": "Sin nombre (OSM node/3642029749)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.1343061,
+      "lng": -2.0833367000000003,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-4774377830",
+      "name": "Sin nombre (OSM node/4774377830)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.0169093,
+      "lng": -2.5361658,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-4873484482",
+      "name": "Sin nombre (OSM node/4873484482)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.063669600000004,
+      "lng": -2.4762717000000003,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-5639934941",
+      "name": "Sin nombre (OSM node/5639934941)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.297652600000006,
+      "lng": -1.9716613,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-5794111597",
+      "name": "Sin nombre (OSM node/5794111597)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.02754770000001,
+      "lng": -2.4051261000000004,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-6002886091",
+      "name": "Sin nombre (OSM node/6002886091)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.296765900000004,
+      "lng": -1.9690892000000002,
+      "payment": false,
+      "description": "parking lot",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-6316000397",
+      "name": "Sin nombre (OSM node/6316000397)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 42.587076,
+      "lng": -2.7944861000000003,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-6384413484",
+      "name": "Sin nombre (OSM node/6384413484)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 42.509290500000006,
+      "lng": -2.4419666,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-7190056802",
+      "name": "Sin nombre (OSM node/7190056802)",
+      "type": "service_area",
+      "access": "private",
+      "lat": 43.307874000000005,
+      "lng": -2.0148024,
+      "payment": true,
+      "description": "Operador: Donostiako Udala",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "Donostiako Udala",
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-7237210741",
+      "name": "Sin nombre (OSM node/7237210741)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.317610800000004,
+      "lng": -2.400761,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-7732279826",
+      "name": "Sin nombre (OSM node/7732279826)",
+      "type": "service_area",
+      "access": "private",
+      "lat": 43.427646200000005,
+      "lng": -2.8043616000000005,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8242871717",
+      "name": "Sin nombre (OSM node/8242871717)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.9007871,
+      "lng": -2.9812579,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8305047274",
+      "name": "Sin nombre (OSM node/8305047274)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 42.6725883,
+      "lng": -2.3440541,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8518351137",
+      "name": "Sin nombre (OSM node/8518351137)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.1721329,
+      "lng": -2.2617077,
+      "payment": false,
+      "description": "Operador: ciudad de Azpeitia",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "ciudad de Azpeitia",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8540470082",
+      "name": "Sin nombre (OSM node/8540470082)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.2692278,
+      "lng": -1.9623458000000003,
+      "payment": false,
+      "description": "Operador: ciudad de Hernani",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "ciudad de Hernani",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "yes",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8540516667",
+      "name": "Sin nombre (OSM node/8540516667)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 42.8668473,
+      "lng": -2.6851704,
+      "payment": false,
+      "description": "Operador: ciudad de Vitoria-Gasteiz",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "Mo, Tu, Th-Su 00:00-24:00; We 00:00-07:00, 14:30-00:00",
+        "operator": "ciudad de Vitoria-Gasteiz",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "yes",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8540517173",
+      "name": "Sin nombre (OSM node/8540517173)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.24089300000001,
+      "lng": -2.2607931000000003,
+      "payment": false,
+      "description": "Operador: ciudad de Zestoa",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "ciudad de Zestoa",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "yes",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8540550507",
+      "name": "Sin nombre (OSM node/8540550507)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.267984600000005,
+      "lng": -1.9011772000000002,
+      "payment": false,
+      "description": "Operador: ciudad de Listorreta",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "ciudad de Listorreta",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "yes",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8540834003",
+      "name": "Sin nombre (OSM node/8540834003)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.0999319,
+      "lng": -2.7507803,
+      "payment": false,
+      "description": "Operador: ciudad de Plaza",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "ciudad de Plaza",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "yes",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8541885952",
+      "name": "Sin nombre (OSM node/8541885952)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.345921000000004,
+      "lng": -2.6547073,
+      "payment": false,
+      "description": "Operador: ciudad de Zelaieta",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "ciudad de Zelaieta",
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "yes",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8541889149",
+      "name": "Sin nombre (OSM node/8541889149)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.207701500000006,
+      "lng": -3.1303078,
+      "payment": false,
+      "description": "Operador: ciudad de Mimetiz",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "ciudad de Mimetiz",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "yes",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8541975421",
+      "name": "Sin nombre (OSM node/8541975421)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.118292700000005,
+      "lng": -3.1305333,
+      "payment": false,
+      "description": "Operador: ciudad de Artziniega",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "ciudad de Artziniega",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8543422540",
+      "name": "Sin nombre (OSM node/8543422540)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.4231442,
+      "lng": -2.7343748000000003,
+      "payment": false,
+      "description": "Operador: ciudad de Bermeo",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": "ciudad de Bermeo",
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "yes",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8829741617",
+      "name": "Sin nombre (OSM node/8829741617)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.3172268,
+      "lng": -2.4009734000000003,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1195131739",
+      "name": "Sin nombre (OSM way/1195131739)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.31921530000001,
+      "lng": -1.8383614400000003,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1221714713",
+      "name": "Sin nombre (OSM way/1221714713)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.843617266666676,
+      "lng": -2.5171303000000003,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1287092714",
+      "name": "Sin nombre (OSM way/1287092714)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.55245695000001,
+      "lng": -2.5811068500000003,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "no",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "no",
+        "toilets": "no",
+        "showers": "no",
+        "wifi": "no"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1427141908",
+      "name": "Sin nombre (OSM way/1427141908)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.88698240000001,
+      "lng": -2.3129167571428573,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1486315740",
+      "name": "Sin nombre (OSM way/1486315740)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.302441572727275,
+      "lng": -2.0224921545454544,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-1505735167",
+      "name": "Sin nombre (OSM way/1505735167)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.2849501,
+      "lng": -2.0285117,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-182240426",
+      "name": "Sin nombre (OSM way/182240426)",
+      "type": "parking",
+      "access": "public",
+      "lat": 43.37366125,
+      "lng": -2.9894081999999997,
+      "payment": false,
+      "description": "",
+      "services": [
+        "disabled_access"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-343095315",
+      "name": "Sin nombre (OSM way/343095315)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.30785509,
+      "lng": -2.0144059199999997,
+      "payment": true,
+      "description": "Operador: Parking Municipal de Autocaravanas",
+      "services": [
+        "pets_allowed"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": "Parking Municipal de Autocaravanas",
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 1,
+        "features": {
+          "drinking_water": "unknown",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-359499193",
+      "name": "Sin nombre (OSM way/359499193)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.13421771428572,
+      "lng": -2.083369585714286,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "no"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 1,
+        "features": {
+          "drinking_water": "unknown",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-509088816",
+      "name": "Sin nombre (OSM way/509088816)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 42.758771960000004,
+      "lng": -3.0840792400000003,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-62724187",
+      "name": "Sin nombre (OSM way/62724187)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.428018230434795,
+      "lng": -2.8043426869565224,
+      "payment": true,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 1,
+        "features": {
+          "drinking_water": "unknown",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-way-638580974",
+      "name": "Sin nombre (OSM way/638580974)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.15391743333333,
+      "lng": -2.9762988500000005,
+      "payment": false,
+      "description": "Capacidad: 13. Estancia máx.: 72 hours",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": "https://furgoneteate.com/area-de-autocaravanas-de-laudio/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": "13",
+        "max_stay": "72 hours"
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "no",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-900156892",
+      "name": "Sin nombre (OSM way/900156892)",
+      "type": "service_area",
+      "access": "public",
+      "lat": 43.1334294,
+      "lng": -2.0830943399999997,
+      "payment": false,
+      "description": "",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-920027751",
+      "name": "Sin nombre (OSM way/920027751)",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.423079022222225,
+      "lng": -2.7344057222222222,
+      "payment": false,
+      "description": "Área de autocaravanas mixtas con estacionamiento para autos. Capacidad: 10",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water",
+        "water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "no",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": "24/7",
+        "operator": null,
+        "fee": false,
+        "capacity": "10",
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      },
+      "spatialEnrichment": {
+        "enriched": true,
+        "childCount": 1,
+        "features": {
+          "drinking_water": "yes",
+          "sanitary_dump_station": "yes",
+          "toilets": "unknown",
+          "showers": "unknown",
+          "power_supply": "unknown",
+          "internet_access": "unknown",
+          "reception": "unknown",
+          "bbq": "unknown",
+          "kitchen": "unknown",
+          "sink": "unknown",
+          "laundry": "unknown",
+          "swimming_pool": "unknown"
+        }
+      }
+    },
+    {
+      "id": "osm-node-8999250923",
+      "name": "Sopelana",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.3737062,
+      "lng": -2.989755,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-895678296",
+      "name": "Soroeta - Zona de Acampada Controlada",
+      "type": "camping",
+      "access": "public",
+      "lat": 43.30781348888888,
+      "lng": -1.7588410500000005,
+      "payment": false,
+      "description": "",
+      "services": [],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "unknown",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-680620739",
+      "name": "Zamudioko autokarabanen eremua",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.285653009090915,
+      "lng": -2.8653567363636365,
+      "payment": false,
+      "description": "También tiene vaciado de aguas negras. A fecha de Diciembre de 2024 aun no hay disponibilidad de agua potable. Capacidad: 16",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "no",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": "16",
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-395286414",
+      "name": "Zarautz",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.277785516666675,
+      "lng": -2.1720724333333337,
+      "payment": false,
+      "description": "Capacidad: 38",
+      "services": [
+        "black_water",
+        "dump_station",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "no",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "no"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": false,
+        "capacity": "38",
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-node-8934823859",
+      "name": "Zegamako autokarabana gunea",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 42.9759541,
+      "lng": -2.2928437,
+      "payment": false,
+      "description": "Capacidad: 5",
+      "services": [
+        "black_water",
+        "dump_station",
+        "electricity",
+        "grey_water"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "unknown",
+        "grey_water": "yes",
+        "chemical_dump": "yes",
+        "electricity": "yes",
+        "toilets": "unknown",
+        "showers": "unknown",
+        "wifi": "unknown"
+      },
+      "details": {
+        "phone": null,
+        "website": null,
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": null,
+        "capacity": "5",
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "unknown",
+        "tents": "unknown",
+        "caravans": "unknown",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    },
+    {
+      "id": "osm-way-772235347",
+      "name": "Zingira",
+      "type": "camper_area",
+      "access": "public",
+      "lat": 43.254763669230776,
+      "lng": -2.1307116923076923,
+      "payment": true,
+      "description": "",
+      "services": [
+        "electricity",
+        "pets_allowed",
+        "restaurant",
+        "showers",
+        "water",
+        "wc",
+        "wifi"
+      ],
+      "source": "osm",
+      "camperServices": {
+        "drinking_water": "yes",
+        "grey_water": "unknown",
+        "chemical_dump": "unknown",
+        "electricity": "yes",
+        "toilets": "yes",
+        "showers": "yes",
+        "wifi": "yes"
+      },
+      "details": {
+        "phone": "+34 682 261 287",
+        "website": "https://zingiracamping.com/es/",
+        "email": null,
+        "opening_hours": null,
+        "operator": null,
+        "fee": true,
+        "capacity": null,
+        "max_stay": null
+      },
+      "facilities": {
+        "reception": "unknown",
+        "bbq": "unknown",
+        "kitchen": "unknown",
+        "sink": "unknown",
+        "laundry": "unknown",
+        "swimming_pool": "unknown"
+      },
+      "rules": {
+        "pets": "allowed",
+        "tents": "yes",
+        "caravans": "yes",
+        "motorhome": "unknown",
+        "motorVehicle": "unknown",
+        "openFire": "unknown",
+        "nudism": "unknown",
+        "groupOnly": null
+      }
+    }
+  ]
+}
