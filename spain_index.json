@@ -5,8 +5,8 @@
   "regions": [
     {
       "id": "andalucia",
-      "name": "regions/Andalucía",
-      "url": "andalucia.json",
+      "name": "Andalucía",
+      "url": "regions/andalucia.json",
       "schemaVersion": 2,
       "dataVersion": "2026.07.06",
       "updatedAt": "2026-07-06T15:26:55.000Z",
