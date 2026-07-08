@@ -1,151 +1,205 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-07-05T17:09:46.265Z",
-  "regionCount": 16,
+  "schemaVersion": 2,
+  "updatedAt": "2026-07-06T15:34:47.752Z",
+  "regionCount": 18,
   "regions": [
     {
       "id": "andalucia",
-      "name": "Andalucía",
+      "name": "regions/Andalucía",
       "url": "andalucia.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 594,
-      "updatedAt": "2026-07-05T17:09:46.054Z"
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:26:55.000Z",
+      "poiCount": 25839,
+      "primaryCount": 492,
+      "infrastructureCount": 25347
     },
     {
       "id": "aragon",
       "name": "Aragón",
-      "url": "aragon.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 279,
-      "updatedAt": "2026-07-05T17:09:46.076Z"
+      "url": "regions/aragon.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:27:27.845Z",
+      "poiCount": 3816,
+      "primaryCount": 239,
+      "infrastructureCount": 3577
     },
     {
       "id": "asturias",
       "name": "Asturias",
-      "url": "asturias.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 177,
-      "updatedAt": "2026-07-05T17:09:46.085Z"
+      "url": "regions/asturias.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:28:00.022Z",
+      "poiCount": 3358,
+      "primaryCount": 143,
+      "infrastructureCount": 3215
     },
     {
       "id": "baleares",
       "name": "Baleares",
-      "url": "baleares.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 25,
-      "updatedAt": "2026-07-05T17:09:46.092Z"
+      "url": "regions/baleares.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:28:10.292Z",
+      "poiCount": 4322,
+      "primaryCount": 25,
+      "infrastructureCount": 4297
     },
     {
       "id": "cantabria",
       "name": "Cantabria",
-      "url": "cantabria.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 117,
-      "updatedAt": "2026-07-05T17:09:46.098Z"
+      "url": "regions/cantabria.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:28:20.385Z",
+      "poiCount": 2408,
+      "primaryCount": 99,
+      "infrastructureCount": 2309
     },
     {
       "id": "castilla_leon",
       "name": "Castilla y León",
-      "url": "castilla_leon.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 483,
-      "updatedAt": "2026-07-05T17:09:46.115Z"
+      "url": "regions/castilla_leon.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:29:15.110Z",
+      "poiCount": 8183,
+      "primaryCount": 386,
+      "infrastructureCount": 7797
     },
     {
       "id": "castilla_mancha",
       "name": "Castilla-La Mancha",
-      "url": "castilla_mancha.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 164,
-      "updatedAt": "2026-07-05T17:09:46.129Z"
+      "url": "regions/castilla_mancha.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:29:48.050Z",
+      "poiCount": 3263,
+      "primaryCount": 150,
+      "infrastructureCount": 3113
     },
     {
       "id": "cataluna",
       "name": "Cataluña",
-      "url": "cataluna.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 566,
-      "updatedAt": "2026-07-05T17:09:46.148Z"
+      "url": "regions/cataluna.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:31:37.529Z",
+      "poiCount": 17652,
+      "primaryCount": 703,
+      "infrastructureCount": 16949
     },
     {
       "id": "ceuta",
       "name": "Ceuta",
-      "url": "ceuta.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 1,
-      "updatedAt": "2026-07-05T17:09:46.157Z"
-    },
-    {
-      "id": "madrid",
-      "name": "Comunidad de Madrid",
-      "url": "madrid.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 48,
-      "updatedAt": "2026-07-05T17:09:46.181Z"
+      "url": "regions/ceuta.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:31:41.385Z",
+      "poiCount": 57,
+      "primaryCount": 2,
+      "infrastructureCount": 55
     },
     {
       "id": "valencia",
       "name": "Comunidad Valenciana",
-      "url": "valencia.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 312,
-      "updatedAt": "2026-07-05T17:09:46.210Z"
+      "url": "regions/valencia.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:34:45.770Z",
+      "poiCount": 13304,
+      "primaryCount": 358,
+      "infrastructureCount": 12946
     },
     {
       "id": "extremadura",
       "name": "Extremadura",
-      "url": "extremadura.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 114,
-      "updatedAt": "2026-07-05T17:09:46.162Z"
+      "url": "regions/extremadura.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:31:50.893Z",
+      "poiCount": 1991,
+      "primaryCount": 88,
+      "infrastructureCount": 1903
     },
     {
       "id": "galicia",
       "name": "Galicia",
-      "url": "galicia.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 372,
-      "updatedAt": "2026-07-05T17:09:46.174Z"
+      "url": "regions/galicia.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:32:28.467Z",
+      "poiCount": 7439,
+      "primaryCount": 304,
+      "infrastructureCount": 7135
+    },
+    {
+      "id": "la_rioja",
+      "name": "La Rioja",
+      "url": "regions/la_rioja.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:32:33.404Z",
+      "poiCount": 741,
+      "primaryCount": 27,
+      "infrastructureCount": 714
+    },
+    {
+      "id": "madrid",
+      "name": "Madrid",
+      "url": "regions/madrid.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:33:07.239Z",
+      "poiCount": 14468,
+      "primaryCount": 44,
+      "infrastructureCount": 14424
+    },
+    {
+      "id": "melilla",
+      "name": "Melilla",
+      "url": "regions/melilla.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:33:08.252Z",
+      "poiCount": 92,
+      "primaryCount": 0,
+      "infrastructureCount": 92
     },
     {
       "id": "murcia",
       "name": "Murcia",
-      "url": "murcia.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 77,
-      "updatedAt": "2026-07-05T17:09:46.185Z"
+      "url": "regions/murcia.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:33:19.190Z",
+      "poiCount": 2077,
+      "primaryCount": 70,
+      "infrastructureCount": 2007
     },
     {
       "id": "navarra",
       "name": "Navarra",
-      "url": "navarra.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 110,
-      "updatedAt": "2026-07-05T17:09:46.190Z"
+      "url": "regions/navarra.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:33:33.906Z",
+      "poiCount": 2693,
+      "primaryCount": 87,
+      "infrastructureCount": 2606
     },
     {
       "id": "pais_vasco",
       "name": "País Vasco",
-      "url": "pais_vasco.json",
-      "schemaVersion": 1,
-      "dataVersion": "2026.07.05",
-      "poiCount": 124,
-      "updatedAt": "2026-07-05T17:09:46.197Z"
+      "url": "regions/pais_vasco.json",
+      "schemaVersion": 2,
+      "dataVersion": "2026.07.06",
+      "updatedAt": "2026-07-06T15:33:52.387Z",
+      "poiCount": 7205,
+      "primaryCount": 89,
+      "infrastructureCount": 7116
     }
   ]
 }

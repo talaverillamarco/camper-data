@@ -1,0 +1,2402 @@
+{
+  "region": "ceuta",
+  "name": "Ceuta",
+  "schemaVersion": 2,
+  "dataVersion": "2026.07.06",
+  "updatedAt": "2026-07-06T15:31:41.385Z",
+  "poiCount": 57,
+  "pois": [
+    {
+      "id": "osm-node-10008201891",
+      "osmId": 10008201891,
+      "osmType": "node",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.8998405,
+      "lon": -5.2945156,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "provenance": [
+        {
+          "osmId": 10008201891,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-10608372104",
+      "osmId": 10608372104,
+      "osmType": "node",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.892740800000006,
+      "lon": -5.3639257,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "provenance": [
+        {
+          "osmId": 10608372104,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-1078624750",
+      "osmId": 1078624750,
+      "osmType": "node",
+      "category": "parking",
+      "name": "Lidl",
+      "description": null,
+      "lat": 35.8910349,
+      "lon": -5.3186100000000005,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "layer": "-1",
+        "name": "Lidl",
+        "parking": "underground"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "layer": "-1",
+        "name": "Lidl",
+        "parking": "underground"
+      },
+      "provenance": [
+        {
+          "osmId": 1078624750,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-12071044014",
+      "osmId": 12071044014,
+      "osmType": "node",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.8920169,
+      "lon": -5.305985000000001,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "operator": "AENA",
+        "operator:type": "government_facility-public",
+        "parking": "surface",
+        "surface": "asphalt"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "operator": "AENA",
+        "operator:type": "government_facility-public",
+        "parking": "surface",
+        "surface": "asphalt"
+      },
+      "provenance": [
+        {
+          "osmId": 12071044014,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-12071044025",
+      "osmId": 12071044025,
+      "osmType": "node",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.8923782,
+      "lon": -5.304346300000001,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 12071044025,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-12071044026",
+      "osmId": 12071044026,
+      "osmType": "node",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.892355800000004,
+      "lon": -5.303859500000001,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 12071044026,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-12071080000",
+      "osmId": 12071080000,
+      "osmType": "node",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.884954300000004,
+      "lon": -5.329183400000001,
+      "access": null,
+      "payment": "paid",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "fee": "yes",
+        "layer": "-1",
+        "operator": "AMGEVICESA",
+        "operator:type": "public",
+        "parking": "underground",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "fee": "yes",
+        "layer": "-1",
+        "operator": "AMGEVICESA",
+        "operator:type": "public",
+        "parking": "underground",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "provenance": [
+        {
+          "osmId": 12071080000,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-12071098322",
+      "osmId": 12071098322,
+      "osmType": "node",
+      "category": "parking",
+      "name": "Capitán Ramos (Plaza de los Reyes)",
+      "description": null,
+      "lat": 35.8869404,
+      "lon": -5.308185300000001,
+      "access": "yes",
+      "payment": "paid",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "layer": "-1",
+        "name": "Capitán Ramos (Plaza de los Reyes)",
+        "operator": "Aparcamientos Municipales y Gestión Vial de Ceuta S.A.",
+        "operator:short": "AMGEVICESA",
+        "operator:type": "public",
+        "parking": "underground",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "effectiveTags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "yes",
+        "layer": "-1",
+        "name": "Capitán Ramos (Plaza de los Reyes)",
+        "operator": "Aparcamientos Municipales y Gestión Vial de Ceuta S.A.",
+        "operator:short": "AMGEVICESA",
+        "operator:type": "public",
+        "parking": "underground",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "provenance": [
+        {
+          "osmId": 12071098322,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-12071098330",
+      "osmId": 12071098330,
+      "osmType": "node",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.8939533,
+      "lon": -5.3359630000000005,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 12071098330,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-12071098331",
+      "osmId": 12071098331,
+      "osmType": "node",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.8937904,
+      "lon": -5.3354936,
+      "access": null,
+      "payment": "free",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "fee": "no"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "fee": "no"
+      },
+      "provenance": [
+        {
+          "osmId": 12071098331,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-12727003930",
+      "osmId": 12727003930,
+      "osmType": "node",
+      "category": "parking",
+      "name": "Gran Vía",
+      "description": null,
+      "lat": 35.8887026,
+      "lon": -5.3131797,
+      "access": null,
+      "payment": "paid",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "fee": "yes",
+        "layer": "-1",
+        "name": "Gran Vía",
+        "operator": "Aparcamientos Municipales y Gestión Vial de Ceuta S.A.",
+        "operator:short": "AMGEVICESA",
+        "operator:type": "public",
+        "parking": "underground"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "fee": "yes",
+        "layer": "-1",
+        "name": "Gran Vía",
+        "operator": "Aparcamientos Municipales y Gestión Vial de Ceuta S.A.",
+        "operator:short": "AMGEVICESA",
+        "operator:type": "public",
+        "parking": "underground"
+      },
+      "provenance": [
+        {
+          "osmId": 12727003930,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-12727003932",
+      "osmId": 12727003932,
+      "osmType": "node",
+      "category": "parking",
+      "name": "Manzana del Revellín",
+      "description": null,
+      "lat": 35.8864807,
+      "lon": -5.3110078000000005,
+      "access": null,
+      "payment": "paid",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "fee": "yes",
+        "layer": "-1",
+        "name": "Manzana del Revellín",
+        "operator": "Aparcamientos Municipales y Gestión Vial de Ceuta S.A.",
+        "operator:short": "AMGEVICESA",
+        "operator:type": "public",
+        "parking": "underground"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "fee": "yes",
+        "layer": "-1",
+        "name": "Manzana del Revellín",
+        "operator": "Aparcamientos Municipales y Gestión Vial de Ceuta S.A.",
+        "operator:short": "AMGEVICESA",
+        "operator:type": "public",
+        "parking": "underground"
+      },
+      "provenance": [
+        {
+          "osmId": 12727003932,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-13941728730",
+      "osmId": 13941728730,
+      "osmType": "node",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.8894141,
+      "lon": -5.3416494000000005,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "operator": "PISTA DE ATLETISMO",
+        "operator:type": "county_government"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "operator": "PISTA DE ATLETISMO",
+        "operator:type": "county_government"
+      },
+      "provenance": [
+        {
+          "osmId": 13941728730,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-1842004301",
+      "osmId": 1842004301,
+      "osmType": "node",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.8975598,
+      "lon": -5.2805818,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 1842004301,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-node-8922326913",
+      "osmId": 8922326913,
+      "osmType": "node",
+      "category": "camping",
+      "name": "Scouts",
+      "description": null,
+      "lat": 35.9125875,
+      "lon": -5.3622125,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "group_only": "yes",
+        "name": "Scouts",
+        "tourism": "camp_site"
+      },
+      "effectiveTags": {
+        "group_only": "yes",
+        "name": "Scouts",
+        "tourism": "camp_site"
+      },
+      "provenance": [
+        {
+          "osmId": 8922326913,
+          "osmType": "node",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-relation-16916242",
+      "osmId": 16916242,
+      "osmType": "relation",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": null,
+      "lon": null,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "building": "yes",
+        "parking": "multi-storey",
+        "type": "multipolygon"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "building": "yes",
+        "parking": "multi-storey",
+        "type": "multipolygon"
+      },
+      "provenance": [
+        {
+          "osmId": 16916242,
+          "osmType": "relation",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-1043688392",
+      "osmId": 1043688392,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.8897752875,
+      "lon": -5.3347633625,
+      "access": "yes",
+      "payment": "free",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      },
+      "effectiveTags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no",
+        "parking": "surface"
+      },
+      "provenance": [
+        {
+          "osmId": 1043688392,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-1092807225",
+      "osmId": 1092807225,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.89299054000001,
+      "lon": -5.3225539600000005,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "provenance": [
+        {
+          "osmId": 1092807225,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-1236140821",
+      "osmId": 1236140821,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.89175769166666,
+      "lon": -5.324581358333334,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 1236140821,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-1365738009",
+      "osmId": 1365738009,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.900505120000005,
+      "lon": -5.298124060000001,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 1365738009,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-1366257226",
+      "osmId": 1366257226,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.877109964285715,
+      "lon": -5.345737342857143,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 1366257226,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-1425566208",
+      "osmId": 1425566208,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.890733272727275,
+      "lon": -5.327044027272728,
+      "access": "yes",
+      "payment": "free",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no"
+      },
+      "effectiveTags": {
+        "access": "yes",
+        "amenity": "parking",
+        "fee": "no"
+      },
+      "provenance": [
+        {
+          "osmId": 1425566208,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-1425566217",
+      "osmId": 1425566217,
+      "osmType": "way",
+      "category": "caravan_site",
+      "name": "Maersa",
+      "description": null,
+      "lat": 35.889656683333335,
+      "lon": -5.316761791666667,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "name": "Maersa",
+        "tourism": "caravan_site"
+      },
+      "effectiveTags": {
+        "name": "Maersa",
+        "tourism": "caravan_site"
+      },
+      "provenance": [
+        {
+          "osmId": 1425566217,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-1519671632",
+      "osmId": 1519671632,
+      "osmType": "way",
+      "category": "parking",
+      "name": "Parking Mercadona",
+      "description": null,
+      "lat": 35.88028993,
+      "lon": -5.336649995,
+      "access": "customers",
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "access": "customers",
+        "amenity": "parking",
+        "name": "Parking Mercadona",
+        "parking": "surface",
+        "surface": "asphalt"
+      },
+      "effectiveTags": {
+        "access": "customers",
+        "amenity": "parking",
+        "name": "Parking Mercadona",
+        "parking": "surface",
+        "surface": "asphalt"
+      },
+      "provenance": [
+        {
+          "osmId": 1519671632,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-206757315",
+      "osmId": 206757315,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.904312759999996,
+      "lon": -5.288850720000001,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "provenance": [
+        {
+          "osmId": 206757315,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-249754506",
+      "osmId": 249754506,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.88589233333334,
+      "lon": -5.334228983333333,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "provenance": [
+        {
+          "osmId": 249754506,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-249757695",
+      "osmId": 249757695,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.88087849285715,
+      "lon": -5.339506542857143,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "provenance": [
+        {
+          "osmId": 249757695,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-249760016",
+      "osmId": 249760016,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.879542433333334,
+      "lon": -5.348486400000001,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "provenance": [
+        {
+          "osmId": 249760016,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-249760136",
+      "osmId": 249760136,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.878929480000004,
+      "lon": -5.3482741,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "provenance": [
+        {
+          "osmId": 249760136,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-249760197",
+      "osmId": 249760197,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.87814698571429,
+      "lon": -5.348707242857143,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "provenance": [
+        {
+          "osmId": 249760197,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-249760885",
+      "osmId": 249760885,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.88110211666667,
+      "lon": -5.346141633333333,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "provenance": [
+        {
+          "osmId": 249760885,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-249764147",
+      "osmId": 249764147,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.887187430000004,
+      "lon": -5.32667452,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "provenance": [
+        {
+          "osmId": 249764147,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-249794121",
+      "osmId": 249794121,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.89480706250001,
+      "lon": -5.281483912500001,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "capacity": "19",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "capacity": "19",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "provenance": [
+        {
+          "osmId": 249794121,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-249808082",
+      "osmId": 249808082,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.88026380833334,
+      "lon": -5.328788525000001,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing",
+        "surface": "asphalt"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing",
+        "surface": "asphalt"
+      },
+      "provenance": [
+        {
+          "osmId": 249808082,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-249894397",
+      "osmId": 249894397,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.87711793333334,
+      "lon": -5.3457375166666665,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface",
+        "source": "Bing"
+      },
+      "provenance": [
+        {
+          "osmId": 249894397,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-249897021",
+      "osmId": 249897021,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.89301972727273,
+      "lon": -5.3203945,
+      "access": "private",
+      "payment": "paid",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "access": "private",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "surface",
+        "source": "Bing",
+        "surface": "asphalt"
+      },
+      "effectiveTags": {
+        "access": "private",
+        "amenity": "parking",
+        "fee": "yes",
+        "parking": "surface",
+        "source": "Bing",
+        "surface": "asphalt"
+      },
+      "provenance": [
+        {
+          "osmId": 249897021,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-307691104",
+      "osmId": 307691104,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.89128937142858,
+      "lon": -5.306711457142858,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 307691104,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-363347289",
+      "osmId": 363347289,
+      "osmType": "way",
+      "category": "parking",
+      "name": "Estación Marítima de Ceuta",
+      "description": null,
+      "lat": 35.8951309,
+      "lon": -5.324028327272728,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "name": "Estación Marítima de Ceuta",
+        "park_ride": "yes",
+        "parking": "surface"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "name": "Estación Marítima de Ceuta",
+        "park_ride": "yes",
+        "parking": "surface"
+      },
+      "provenance": [
+        {
+          "osmId": 363347289,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-378488138",
+      "osmId": 378488138,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.90054887272727,
+      "lon": -5.348391800000001,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 378488138,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-378928656",
+      "osmId": 378928656,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.886280160000005,
+      "lon": -5.33107864,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 378928656,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-378964615",
+      "osmId": 378964615,
+      "osmType": "way",
+      "category": "parking",
+      "name": "Aparcamiento Mirasol",
+      "description": null,
+      "lat": 35.88098744615385,
+      "lon": -5.3315147000000005,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "name": "Aparcamiento Mirasol"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "name": "Aparcamiento Mirasol"
+      },
+      "provenance": [
+        {
+          "osmId": 378964615,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-379060848",
+      "osmId": 379060848,
+      "osmType": "way",
+      "category": "parking",
+      "name": "Benzú",
+      "description": null,
+      "lat": 35.916154728571435,
+      "lon": -5.373924500000001,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "name": "Benzú",
+        "parking": "surface"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "name": "Benzú",
+        "parking": "surface"
+      },
+      "provenance": [
+        {
+          "osmId": 379060848,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-387570243",
+      "osmId": 387570243,
+      "osmType": "way",
+      "category": "parking",
+      "name": "Sistema Solar",
+      "description": null,
+      "lat": 35.88838636666667,
+      "lon": -5.330701700000001,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "name": "Sistema Solar"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "name": "Sistema Solar"
+      },
+      "provenance": [
+        {
+          "osmId": 387570243,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-388260428",
+      "osmId": 388260428,
+      "osmType": "way",
+      "category": "parking",
+      "name": "Aparcamiento San Amaro",
+      "description": null,
+      "lat": 35.89494833333334,
+      "lon": -5.2988579,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "name": "Aparcamiento San Amaro"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "name": "Aparcamiento San Amaro"
+      },
+      "provenance": [
+        {
+          "osmId": 388260428,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-388283532",
+      "osmId": 388283532,
+      "osmType": "way",
+      "category": "parking",
+      "name": "Aparcamiento La Salud",
+      "description": null,
+      "lat": 35.888827248,
+      "lon": -5.302384999999999,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "name": "Aparcamiento La Salud"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "name": "Aparcamiento La Salud"
+      },
+      "provenance": [
+        {
+          "osmId": 388283532,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-388451593",
+      "osmId": 388451593,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.882206227272725,
+      "lon": -5.332976045454546,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 388451593,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-388464215",
+      "osmId": 388464215,
+      "osmType": "way",
+      "category": "parking",
+      "name": "Circunvalación Sur",
+      "description": null,
+      "lat": 35.88810213636364,
+      "lon": -5.300967954545455,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "name": "Circunvalación Sur",
+        "surface": "unpaved"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "name": "Circunvalación Sur",
+        "surface": "unpaved"
+      },
+      "provenance": [
+        {
+          "osmId": 388464215,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-511897199",
+      "osmId": 511897199,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.89553527142858,
+      "lon": -5.282825057142858,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 511897199,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-519172560",
+      "osmId": 519172560,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.872914540000004,
+      "lon": -5.345391279999999,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 519172560,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-519172561",
+      "osmId": 519172561,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.87230818,
+      "lon": -5.345066060000001,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 519172561,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-519172562",
+      "osmId": 519172562,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.87302813333334,
+      "lon": -5.346418616666667,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 519172562,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-537126610",
+      "osmId": 537126610,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.89123499166667,
+      "lon": -5.317657366666668,
+      "access": "yes",
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "access": "yes",
+        "amenity": "parking",
+        "operator": "Gratuito",
+        "park_ride": "no",
+        "parking": "surface"
+      },
+      "effectiveTags": {
+        "access": "yes",
+        "amenity": "parking",
+        "operator": "Gratuito",
+        "park_ride": "no",
+        "parking": "surface"
+      },
+      "provenance": [
+        {
+          "osmId": 537126610,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-789637768",
+      "osmId": 789637768,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.89947671428572,
+      "lon": -5.298532085714286,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "provenance": [
+        {
+          "osmId": 789637768,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-817257752",
+      "osmId": 817257752,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.896642386363645,
+      "lon": -5.291121422727273,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking"
+      },
+      "effectiveTags": {
+        "amenity": "parking"
+      },
+      "provenance": [
+        {
+          "osmId": 817257752,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-846033065",
+      "osmId": 846033065,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.87918384444444,
+      "lon": -5.340325827777778,
+      "access": "no",
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "access": "no",
+        "amenity": "parking",
+        "operator": "Ciudad Autónoma de Ceuta",
+        "operator:type": "public"
+      },
+      "effectiveTags": {
+        "access": "no",
+        "amenity": "parking",
+        "operator": "Ciudad Autónoma de Ceuta",
+        "operator:type": "public"
+      },
+      "provenance": [
+        {
+          "osmId": 846033065,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-877417741",
+      "osmId": 877417741,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.88071632142858,
+      "lon": -5.326120464285715,
+      "access": "yes",
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "access": "yes",
+        "amenity": "parking",
+        "capacity:disabled": "4",
+        "operator": "Playa Chorrillo"
+      },
+      "effectiveTags": {
+        "access": "yes",
+        "amenity": "parking",
+        "capacity:disabled": "4",
+        "operator": "Playa Chorrillo"
+      },
+      "provenance": [
+        {
+          "osmId": 877417741,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    },
+    {
+      "id": "osm-way-943847845",
+      "osmId": 943847845,
+      "osmType": "way",
+      "category": "parking",
+      "name": null,
+      "description": null,
+      "lat": 35.912610671428574,
+      "lon": -5.3817161928571435,
+      "access": null,
+      "payment": "unknown",
+      "drinkingWater": "unknown",
+      "waterPoint": "unknown",
+      "sanitaryDump": "unknown",
+      "greyWater": "unknown",
+      "blackWater": "unknown",
+      "electricity": "unknown",
+      "toilets": "unknown",
+      "showers": "unknown",
+      "wifi": "unknown",
+      "pets": "unknown",
+      "phone": null,
+      "website": null,
+      "email": null,
+      "rawTags": {
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "effectiveTags": {
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "provenance": [
+        {
+          "osmId": 943847845,
+          "osmType": "way",
+          "scope": "direct"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "ceuta-260703.osm.pbf",
+    "path": "C:\\Users\\maran\\camper-data-builder\\data\\osm\\extracts\\ceuta-260703.osm.pbf",
+    "format": "osm.pbf"
+  },
+  "generator": "camper-data-builder-v2-exporter"
+}
